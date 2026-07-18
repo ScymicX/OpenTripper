@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 122" role="img" aria-labelledby="title">
+  <title id="title">DennieZorg</title>
+  <g fill="none" stroke="#5d9f86" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 84H13C6 84 3 80 3 73V56C3 48 7 43 15 43H25C35 43 43 49 43 58V110C43 117 47 120 54 120H78C85 120 88 116 88 109V104"/>
+    <path d="M43 30V14C43 7 47 3 54 3H77C84 3 88 8 88 15V72C88 81 93 85 102 85H108C116 85 120 81 120 73V55C120 47 115 43 107 43H103"/>
+  </g>
+  <text x="148" y="80" fill="#8bc7ad" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="600" letter-spacing="0.5">DennieZorg</text>
+</svg>
